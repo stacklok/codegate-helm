@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  codegate:
+  - apiVersion: v2
+    appVersion: v0.1.22
+    created: "2025-02-20T11:51:36.686247398Z"
+    description: A Helm chart for deploying Codegate onto Kubernetes
+    digest: f6dad35eec09c3a28c1d3621d006df42afb5c1c12df364b350062932db5fd93d
+    name: codegate
+    type: application
+    urls:
+    - https://github.com/stacklok/codegate-helm/releases/download/codegate-0.0.1/codegate-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-02-20T11:51:36.686256756Z"
